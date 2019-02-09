@@ -1,5 +1,5 @@
 # spring-websocket-sample
-This application contains SimpMessagingTemplate from java side and ui side is stop
+This application contains SimpMessagingTemplate from java side and ui side is stomp 
 
 after starting please type
 localhost:8080    in browser
